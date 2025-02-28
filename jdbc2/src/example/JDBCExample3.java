@@ -88,6 +88,5 @@ public class JDBCExample3 {
 				e.printStackTrace();
 			}
 		}
-		
 	}
 }
